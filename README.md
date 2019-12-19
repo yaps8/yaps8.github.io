@@ -1,5 +1,3 @@
-# yaps8
-
 ## Projects
 
 * https://github.com/quoscient/grap/ - match graph patterns within binaries
