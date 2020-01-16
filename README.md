@@ -17,7 +17,7 @@
   * Paper: [https://grehack.fr/data/2017/slides/GreHack17_Detection_of_cryptographic_algorithms_with_grap_paper.pdf](https://grehack.fr/data/2017/slides/GreHack17_Detection_of_cryptographic_algorithms_with_grap_paper.pdf)
 * Sthack 2017: Recherche de motifs de graphes dans un exécutable avec GRAP
 * REcon Brussels 2017: GRAP: define and match graph patterns within binaries
- * [https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-GRAP.pdf](https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-GRAP.pdf)
+  * [https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-GRAP.pdf](https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-GRAP.pdf)
 
 ## Others
 
