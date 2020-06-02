@@ -6,6 +6,8 @@
 # Publications
 ## OS_timestamps
 
+* Testing updates of POSIX timestamps:
+  * [https://blog.quosec.net/posts/02_testing_posix/](https://blog.quosec.net/posts/02_testing_posix/)
 * MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD):
   * [https://medium.com/@quoscient/mac-b-timestamps-across-posix-implementations-linux-openbsd-freebsd-1e2d5893e4f](https://medium.com/@quoscient/mac-b-timestamps-across-posix-implementations-linux-openbsd-freebsd-1e2d5893e4f)
 
