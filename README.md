@@ -1,7 +1,7 @@
 # Projects
 
 * [https://github.com/QuoSecGmbH/os_timestamps/](https://github.com/QuoSecGmbH/os_timestamps/) - Profile how your Unix-like OS (Linux, BSD...) modifies MACB timestamps.
-* [https://github.com/quoscient/grap/](https://github.com/quoscient/grap/) - Match graph patterns within binaries
+* [https://github.com/QuoSecGmbH/grap/](https://github.com/QuoSecGmbH/grap/) - Match graph patterns within binaries
 
 # Publications
 ## OS_timestamps
