@@ -6,13 +6,17 @@
 # Publications
 ## OS_timestamps
 
-* Testing updates of POSIX timestamps:
+* Testing updates of POSIX timestamps (2020):
   * [https://blog.quosec.net/posts/02_testing_posix/](https://blog.quosec.net/posts/02_testing_posix/)
-* MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD):
+* MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD) (2019):
   * [https://medium.com/@quoscient/mac-b-timestamps-across-posix-implementations-linux-openbsd-freebsd-1e2d5893e4f](https://medium.com/@quoscient/mac-b-timestamps-across-posix-implementations-linux-openbsd-freebsd-1e2d5893e4f)
 
 ## grap
 
+* Tutorial (2020): Navigating malware samples (focus on CLI and IDA) 
+  * [https://blog.quosec.net/posts/grap_qakbot_navigation/](https://blog.quosec.net/posts/grap_qakbot_navigation/)
+* Tutorial (2020): Automating strings decryption (focus on IDA and python bindings)
+  * [https://blog.quosec.net/posts/grap_qakbot_strings/](https://blog.quosec.net/posts/grap_qakbot_strings/)
 * MISC: Algorithmes et implémentations cryptographiques vulnérables : détection avec grap
 * GreHack 2017: Detection of cryptographic algorithms with grap
   * Slides: [https://grehack.fr/data/2017/slides/GreHack17_Detection_of_cryptographic_algorithms_with_grap.pdf](https://grehack.fr/data/2017/slides/GreHack17_Detection_of_cryptographic_algorithms_with_grap.pdf)
