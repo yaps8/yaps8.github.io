@@ -35,7 +35,7 @@
 * Malware 2012: Code synchronization by morphological analysis
 * REcon 2012: Recognition of binary patterns by Morphological analysis
 
-# #whoami
+# $ whoami
 
 Aurélien Thierry 
 
