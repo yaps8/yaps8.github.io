@@ -9,7 +9,7 @@
 * Testing updates of POSIX timestamps (2020):
   * [https://quosecgmbh.github.io/blog/02_Testing_POSIX](https://quosecgmbh.github.io/blog/02_Testing_POSIX)
 * MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD) (2019):
-  * [https://medium.com/@quoscient/mac-b-timestamps-across-posix-implementations-linux-openbsd-freebsd-1e2d5893e4f](https://medium.com/@quoscient/mac-b-timestamps-across-posix-implementations-linux-openbsd-freebsd-1e2d5893e4f)
+  * [https://quosecgmbh.github.io/blog/01_macb_timestamps_across_POSIX](https://quosecgmbh.github.io/blog/01_macb_timestamps_across_POSIX)
 
 ## grap
 
