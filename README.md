@@ -70,3 +70,6 @@ tags.async=!0,tags.src="https://yaps8.containers.piwik.pro/"+id+".js"+qPString,s
 !function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
 })(window, document, 'dataLayer', 'f27fd11e-7483-4d22-9afc-ccb63f5f08b6');
 </script><noscript><iframe src="https://yaps8.containers.piwik.pro/f27fd11e-7483-4d22-9afc-ccb63f5f08b6/noscript.html" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ 
+ <script data-goatcounter="https://yaps8.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
