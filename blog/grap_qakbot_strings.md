@@ -1,6 +1,6 @@
 ---
 layout: default
-title: grap\: Automating QakBot strings decryption
+title: "grap: Automating QakBot strings decryption"
 description: Using grap within python scripts
 ---
 
