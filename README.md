@@ -1,6 +1,5 @@
 ---
 title: yaps8
-description: Profile
 ---
 
 
