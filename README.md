@@ -1,7 +1,7 @@
 ---
 layout: default
 title: yaps8
-description:
+description: Profile
 ---
 
 
