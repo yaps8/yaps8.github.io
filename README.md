@@ -1,9 +1,3 @@
----
-layout: post
-title: Blogging Like a Hacker
----
-
-
 # Projects
 
 * [https://github.com/QuoSecGmbH/os_timestamps/](https://github.com/QuoSecGmbH/os_timestamps/) - Profile how your Unix-like OS (Linux, BSD...) modifies MACB timestamps.
