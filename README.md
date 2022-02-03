@@ -1,7 +1,4 @@
----
-title: yaps8
----
-
+<title> yaps8 </title>
 
 # Projects
 
