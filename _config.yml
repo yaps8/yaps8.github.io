@@ -1,7 +1,7 @@
 title: Into the glitch
 description: on digital forensics and malware analysis
 show_downloads: false
-markdown: GFM
+markdown: kramdown
 url: "yaps8.github.io"
 google_analytics:
 theme: jekyll-theme-cayman
