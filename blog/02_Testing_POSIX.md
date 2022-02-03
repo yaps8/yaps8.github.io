@@ -1,3 +1,10 @@
+---
+layout:default
+title: Testing updates of POSIX timestamps
+description: How to design and implement compliance tests
+---
+
+
 <!---
 title: "Testing updates of POSIX timestamps"
 date: 2020-06-02T09:00:00+02:00
@@ -14,8 +21,6 @@ draft: false
 -->
 
 > Published: June 2, 2020
-
-# Testing updates of POSIX timestamps
 
 Our [last blog post](01_macb_timestamps_across_POSIX.md) discussed how POSIX specifies timestamp updates operated by interfaces and utilities, and we detailed the impact of common operations (a file being written to shall get updated MC).
 
