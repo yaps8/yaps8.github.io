@@ -1,3 +1,10 @@
+---
+layout: default
+title: grap: Automating QakBot strings decryption
+description: Using grap within python scripts
+---
+
+
 <!---
 title: "grap: Automating QakBot strings decryption"
 date: 2020-09-10T09:00:00+02:00
@@ -15,8 +22,6 @@ draft: false
 -->
 
 > Published: September 10, 2020
-
-# grap: Automating QakBot strings decryption
 
 Our [last grap post](grap_qakbot_navigation.md) demonstrated on how to use grap to create and find patterns within QakBot samples.
 
