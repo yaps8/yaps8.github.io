@@ -1,0 +1,16 @@
+digraph qakbot_rc4init_gen {
+    0x407520 [cond="opcode is 'mov' and arg2 is '0x100'"]
+    0x407525 [cond="opcode is 'push'", repeat=?]
+    0x407526 [cond="opcode is 'mov'"]
+    0x407528 [cond="opcode is 'inc'", repeat=*, lazyrepeat=true]
+    0x40752a [cond="opcode is 'cmp'"]
+    0x40752d [cond="nchildren == 2"]
+
+    0x407520 -> 0x407525 [childnumber=1]
+    0x407525 -> 0x407526 [childnumber=1]
+    0x407526 -> 0x407528 [childnumber=1]
+    0x407528 -> 0x40752a [childnumber=1]
+    0x40752a -> 0x40752d [childnumber=1]
+    0x40752d -> 0x407526 [childnumber=2]
+}
+

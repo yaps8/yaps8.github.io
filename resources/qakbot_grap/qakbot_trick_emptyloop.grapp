@@ -1,0 +1,20 @@
+digraph qakbot_trick_emptyloop_v1 {
+xor [cond="opcode is xor and arg2 is _arg1"]
+je [cond="opcode is je"]
+jmp [cond="opcode is jmp"]
+
+xor -> je [childnumber = 1]
+je -> jmp [childnumber = 1]
+jmp -> xor [childnumber = 2]
+}
+
+
+digraph qakbot_trick_emptyloop_generic {
+xor [cond="opcode is xor"]
+jcc [cond="true"]
+jmp [cond="true"]
+
+xor -> jcc [childnumber = 1]
+jcc -> jmp [childnumber = *]
+jmp -> xor [childnumber = 2]
+}

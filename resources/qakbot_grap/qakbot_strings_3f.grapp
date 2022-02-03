@@ -1,0 +1,15 @@
+digraph qakbot_strings_3f {
+  loop [cond="nfathers==2"]
+  any1 [cond=true, repeat=*, lazyrepeat=true]
+  and [cond="opcode is 'and' and arg2 is 0x3f"]
+  any2 [cond=true, repeat=*, lazyrepeat=true]
+  xor [cond="opcode is 'xor'"]
+  any3 [cond=true, repeat=*, lazyrepeat=true]
+
+  loop -> any1
+  any1 -> and
+  and -> any2
+  any2 -> xor
+  xor -> any3
+  any3 -> loop [childnumber=2]
+}

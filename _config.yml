@@ -1,0 +1,7 @@
+title: Into the glitch
+description: on digital forensics and malware analysis
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
