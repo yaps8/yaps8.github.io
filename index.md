@@ -13,16 +13,16 @@ description: about
 ## OS_timestamps
 
 * Testing updates of POSIX timestamps (2020):
-  * [https://yaps8.github.io/blog/02_Testing_POSIX](https://quosecgmbh.github.io/blog/02_Testing_POSIX)
+  * [https://yaps8.github.io/blog/02_Testing_POSIX](https://yaps8.github.io/blog/02_Testing_POSIX)
 * MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD) (2019):
-  * [https://yaps8.github.io/blog/01_macb_timestamps_across_POSIX](https://quosecgmbh.github.io/blog/01_macb_timestamps_across_POSIX)
+  * [https://yaps8.github.io/blog/01_macb_timestamps_across_POSIX](https://yaps8.github.io/blog/01_macb_timestamps_across_POSIX)
 
 ## grap
 
 * Tutorial (2020): Navigating malware samples (focus on CLI and IDA) 
-  * [https://yaps8.github.io/blog/grap_qakbot_navigation](https://quosecgmbh.github.io/blog/grap_qakbot_navigation)
+  * [https://yaps8.github.io/blog/grap_qakbot_navigation](https://yaps8.github.io/blog/grap_qakbot_navigation)
 * Tutorial (2020): Automating strings decryption (focus on IDA and python bindings)
-  * [https://yaps8.github.io/blog/grap_qakbot_strings](https://quosecgmbh.github.io/blog/grap_qakbot_strings)
+  * [https://yaps8.github.io/blog/grap_qakbot_strings](https://yaps8.github.io/blog/grap_qakbot_strings)
 * MISC: Algorithmes et implémentations cryptographiques vulnérables : détection avec grap
 * GreHack 2017: Detection of cryptographic algorithms with grap
   * Slides: [https://grehack.fr/data/2017/slides/GreHack17_Detection_of_cryptographic_algorithms_with_grap.pdf](https://grehack.fr/data/2017/slides/GreHack17_Detection_of_cryptographic_algorithms_with_grap.pdf)
