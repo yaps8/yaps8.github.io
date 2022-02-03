@@ -1,5 +1,4 @@
 ---
-layout: default
 title: yaps8
 description: Profile
 ---
