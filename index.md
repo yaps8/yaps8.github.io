@@ -10,6 +10,9 @@ description: about
 * [https://github.com/QuoSecGmbH/grap/](https://github.com/QuoSecGmbH/grap/) - Match graph patterns within binaries
 
 # Publications
+
+Blog: [https://yaps8.github.io/blog/](https://yaps8.github.io/blog/)
+
 ## OS_timestamps
 
 * Testing updates of POSIX timestamps (2020):
