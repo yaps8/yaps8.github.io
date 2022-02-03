@@ -557,5 +557,5 @@ POSIX specifies many timestamp-related behavior. However the two-step update pro
 
 
 
-<script data-goatcounter="https://quosecgmbh.goatcounter.com/count"
+<script data-goatcounter="https://yaps8.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
