@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Into the glitch
 description: on digital forensics and malware analysis
 ---
