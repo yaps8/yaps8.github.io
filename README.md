@@ -1,6 +1,6 @@
 ---
-title: yaps8
-
+layout: post
+title: Blogging Like a Hacker
 ---
 
 
