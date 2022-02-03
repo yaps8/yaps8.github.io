@@ -1,8 +1,3 @@
----
-title: Into the glitch
-description: on digital forensics and malware analysis
----
-
 # POSIX and OS timestamps
 * MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD) (2019):
   * [01_macb_timestamps_across_POSIX.md](01_macb_timestamps_across_POSIX.md)
