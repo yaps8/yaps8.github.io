@@ -4,7 +4,6 @@ title: Testing updates of POSIX timestamps
 description: How to design and implement compliance tests
 ---
 
-
 <!---
 title: "Testing updates of POSIX timestamps"
 date: 2020-06-02T09:00:00+02:00
