@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 title: Testing updates of POSIX timestamps
 description: How to design and implement compliance tests
 ---
