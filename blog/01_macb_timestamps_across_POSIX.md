@@ -1,3 +1,8 @@
+---
+description: MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD)
+---
+
+
 <!---
 title: "MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD)"
 date: 2019-12-03T13:13:17+02:00
