@@ -1,3 +1,10 @@
+---
+layout: default
+title: Navigating QakBot samples with grap
+description: Use grap to find and analyse malware features
+---
+
+
 <!---
 title: "Navigating QakBot samples with grap"
 date: 2020-09-04T09:00:00+02:00
@@ -15,8 +22,6 @@ draft: false
 -->
 
 > Published: September 4, 2020
-
-# Navigating QakBot samples with grap
 
 grap is our tool to match binaries at the assembly code level, matching control flow graphs: https://github.com/QuoSecGmbH/grap/
 
