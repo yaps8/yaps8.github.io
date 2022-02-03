@@ -1,3 +1,9 @@
+---
+layout: default
+title: MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD)
+description: Understanding timestamp updates
+---
+
 <!---
 title: "MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD)"
 date: 2019-12-03T13:13:17+02:00
@@ -18,7 +24,7 @@ This blog post was first published in December 2019 on behalf of QuoScient on me
 https://medium.com/@quoscient/mac-b-timestamps-across-posix-implementations-linux-openbsd-freebsd-1e2d5893e4f
 ```
 
-# MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD)
+# Introduction
 
 File timestamps are crucial forensics artifacts when investigating a machine during a security incident, they are regularly modified and can provide both primitive information (when the file was last modified) and inferred information (when the file was probably moved there from another file system).
 
