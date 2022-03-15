@@ -8,7 +8,7 @@
   background-image: linear-gradient(80deg, $header-bg-color-secondary, $header-bg-color); /*-- 120deg */
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 1.5rem 6rem; /*-- 5rem 6rem */
   }
 
   @include medium {
