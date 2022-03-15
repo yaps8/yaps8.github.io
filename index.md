@@ -4,14 +4,20 @@ description: about
 ---
 
 
+# $ whoami
+
+Aurélien Thierry 
+
+* [https://twitter.com/yaps8](https://twitter.com/yaps8)
+* [https://www.linkedin.com/in/aurelien-thierry](https://www.linkedin.com/in/aurelien-thierry)
+* [https://www.xing.com/profile/Aurelien_Thierry](https://www.xing.com/profile/Aurelien_Thierry)
+
 # Projects
 
 * [https://github.com/QuoSecGmbH/os_timestamps/](https://github.com/QuoSecGmbH/os_timestamps/) - Profile how your Unix-like OS (Linux, BSD...) modifies MACB timestamps.
 * [https://github.com/QuoSecGmbH/grap/](https://github.com/QuoSecGmbH/grap/) - Match graph patterns within binaries
 
 # Publications
-
-Blog: [https://yaps8.github.io/blog/](https://yaps8.github.io/blog/)
 
 ## OS_timestamps
 
@@ -43,15 +49,6 @@ Blog: [https://yaps8.github.io/blog/](https://yaps8.github.io/blog/)
 * SSTIC 2013: Duqu contre Duqu : Analyse et détournement du driver de Duqu
 * Malware 2012: Code synchronization by morphological analysis
 * REcon 2012: Recognition of binary patterns by Morphological analysis
-
-# $ whoami
-
-Aurélien Thierry 
-
-* [https://twitter.com/yaps8](https://twitter.com/yaps8)
-* [https://www.linkedin.com/in/aurelien-thierry](https://www.linkedin.com/in/aurelien-thierry)
-* [https://www.xing.com/profile/Aurelien_Thierry](https://www.xing.com/profile/Aurelien_Thierry)
-
 
  
  <script data-goatcounter="https://yaps8.goatcounter.com/count"
