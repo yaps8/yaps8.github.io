@@ -1,6 +1,14 @@
 ---
 ---
 
+$header-bg-color: #159957 !default;
+$header-bg-color-secondary: #222436 !default;
+
+$body-text-color: #000000 !default;
+$blockquote-text-color: #606c71 !default;
+@import "{{ site.theme }}";
+
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
@@ -19,10 +27,3 @@
     padding: 2rem 1rem;
   }
 }
-
-$header-bg-color: #159957 !default;
-$header-bg-color-secondary: #222436 !default;
-
-$body-text-color: #000000 !default;
-$blockquote-text-color: #606c71 !default;
-@import "{{ site.theme }}";
