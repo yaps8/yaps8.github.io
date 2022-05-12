@@ -14,13 +14,14 @@ Aurélien Thierry
 
 # Projects
 
-* [https://github.com/QuoSecGmbH/os_timestamps/](https://github.com/QuoSecGmbH/os_timestamps/) - Profile how your Unix-like OS (Linux, BSD...) modifies MACB timestamps.
+* [https://github.com/QuoSecGmbH/os_timestamps/](https://github.com/QuoSecGmbH/os_timestamps/) - Explore how your Unix-like OS (Linux, BSD, macOS...) modifies MACB timestamps.
 * [https://github.com/QuoSecGmbH/grap/](https://github.com/QuoSecGmbH/grap/) - Match graph patterns within binaries
 
 # Publications
 
 ## OS_timestamps
 
+* A systematic approach to understanding MACB timestamps on Unix-like systems (DFRWS-EU 2022) -  [[paper]](https://www.sciencedirect.com/science/article/pii/S2666281722000075) [[pdf]](https://yaps8.github.io/os_timestamps/DFRWSEU2022/DFRWSEU2022_MACB_Unix_paper.pdf) [[slides]](https://yaps8.github.io/os_timestamps/DFRWSEU2022/DFRWSEU2022_MACB_Unix_slides.pdf)
 * Testing updates of POSIX timestamps (2020):
   * [https://yaps8.github.io/blog/02_Testing_POSIX](https://yaps8.github.io/blog/02_Testing_POSIX)
 * MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD) (2019):
