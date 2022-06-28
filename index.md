@@ -21,7 +21,7 @@ Aurélien Thierry
 
 ## OS_timestamps
 
-* A systematic approach to understanding MACB timestamps on Unix-like systems (DFRWS-EU 2022) -  [[paper]](https://www.sciencedirect.com/science/article/pii/S2666281722000075) [[pdf]](https://yaps8.github.io/os_timestamps/DFRWSEU2022/DFRWSEU2022_MACB_Unix_paper.pdf) [[slides]](https://yaps8.github.io/os_timestamps/DFRWSEU2022/DFRWSEU2022_MACB_Unix_slides.pdf)
+* A systematic approach to understanding MACB timestamps on Unix-like systems (DFRWS-EU 2022) -  [[paper]](https://www.sciencedirect.com/science/article/pii/S2666281722000075) [[pdf]](https://yaps8.github.io/os_timestamps/DFRWSEU2022/DFRWSEU2022_MACB_Unix_paper.pdf) [[slides]](https://yaps8.github.io/os_timestamps/DFRWSEU2022/DFRWSEU2022_MACB_Unix_slides.pdf) [[video]](https://www.youtube.com/watch?v=i0zd7HtluzY) [[transcript]](https://www.forensicfocus.com/webinars/a-systematic-approach-to-understanding-macb-timestamps-on-unixlike-systems/)
 * Testing updates of POSIX timestamps (2020):
   * [https://yaps8.github.io/blog/02_Testing_POSIX](https://yaps8.github.io/blog/02_Testing_POSIX)
 * MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD) (2019):
