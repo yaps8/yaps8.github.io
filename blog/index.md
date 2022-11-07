@@ -22,3 +22,5 @@ description: on digital forensics and malware analysis
 
 <script data-goatcounter="https://yaps8.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+
+<a rel="me" href="https://infosec.exchange/@yaps8" style=”display:none”>Mastodon</a>
