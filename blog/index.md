@@ -24,3 +24,7 @@ description: on digital forensics and malware analysis
         async src="//gc.zgo.at/count.js"></script>
 
 [](https://infosec.exchange/@yaps8)
+
+<script>
+ <a rel="me" href="https://infosec.exchange/@yaps8"></a>
+</script>
