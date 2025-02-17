@@ -8,7 +8,6 @@ description: about
 
 Aurélien Thierry 
 
-* [https://twitter.com/yaps8](https://twitter.com/yaps8)
 * [https://www.linkedin.com/in/aurelien-thierry](https://www.linkedin.com/in/aurelien-thierry)
 * [https://www.xing.com/profile/Aurelien_Thierry](https://www.xing.com/profile/Aurelien_Thierry)
 
